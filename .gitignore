@@ -1,3 +1,9 @@
-target
-*.iml
+.DS_Store
+encodings.xml
+misc.xml
 .idea
+*.iml
+out
+gen
+target
+*.class
