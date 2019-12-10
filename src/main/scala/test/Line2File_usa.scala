@@ -1,4 +1,4 @@
-package myFirstFrame
+package test
 
 import java.util
 
