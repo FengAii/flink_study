@@ -20,7 +20,7 @@ object FengAiFlinkKafka {
     import org.apache.flink.api.scala._
     //生成配置对象
     val config = new Configuration()
-    //开启spark-webui
+    //开启flink-webui
     config.setBoolean(ConfigConstants.LOCAL_START_WEBSERVER, true)
     //配置webui的日志文件，否则打印日志到控制台
     config.setString("web.log.path", "/tmp/flink_log")
