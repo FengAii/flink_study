@@ -47,6 +47,7 @@ object ConnectCoFlatMap {
     value.print()
 
     env.execute()
+//    env.execute()
 
   }
 }
