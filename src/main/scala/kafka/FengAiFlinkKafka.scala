@@ -92,7 +92,7 @@ object FengAiFlinkKafka {
         f
       }).print()
 
-    env.execute("HainiuFlinkKafka")
+    env.execute("FengAiFlinkKafka")
   }
 }
 
